@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Vista previa temporal generada por el servidor local
+cache/
+
+# Vercel
+.vercel/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
